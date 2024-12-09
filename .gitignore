@@ -1,0 +1,18 @@
+# VS Code
+.vscode/
+
+# Node.js
+node_modules/
+
+# Logs
+npm-debug.log*
+
+# Dependencies
+package-lock.json
+
+# Directorios de salida o build
+dist/
+
+# Configuración local de desarrollo
+.env
+.env.*.local
