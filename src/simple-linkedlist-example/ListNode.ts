@@ -3,8 +3,8 @@ class ListNode {
     value: number;
     next: ListNode | null;
 
-    constructor(value: number) {
+    constructor(value: number, next: ListNode | null = null) {
         this.value = value;
-        this.next = null; // Initially the next node is null
+        this.next = next;
     }
 }

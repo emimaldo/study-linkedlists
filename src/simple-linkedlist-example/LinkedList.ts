@@ -1,3 +1,5 @@
+import { ListNode } from "../remove-duplicated-item/ListNode.js";
+
 // Linked list definition
 class LinkedList {
     head: ListNode | null;

@@ -1,4 +1,4 @@
-import { TaskNode } from "./TaskNode";
+import { TaskNode } from "./TaskNode.js";
 
 export class TaskList {
     head: TaskNode | null = null;
