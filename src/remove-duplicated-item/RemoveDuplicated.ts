@@ -1,4 +1,4 @@
-import { ListNode } from './ListNode.ts';
+import { ListNode } from "../ListNode.ts";
 
 export class RemoveDuplicated {
     removeDuplicated(head: ListNode | null): void {
