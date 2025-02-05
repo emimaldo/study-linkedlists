@@ -1,5 +1,5 @@
+import { ListNode } from '../src/ListNode.ts';
 import { RemoveDuplicated } from '../src/remove-duplicated-item/RemoveDuplicated.ts';
-import { ListNode } from '../src/remove-duplicated-item/ListNode.ts';
 
 describe('RemoveDuplicated', () => {
     let removeDuplicated: RemoveDuplicated;
