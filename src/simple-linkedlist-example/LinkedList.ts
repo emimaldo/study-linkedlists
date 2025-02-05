@@ -1,4 +1,4 @@
-import { ListNode } from "../remove-duplicated-item/ListNode.ts";
+import { ListNode } from "../ListNode.ts";
 
 // Linked list definition
 class LinkedList {
