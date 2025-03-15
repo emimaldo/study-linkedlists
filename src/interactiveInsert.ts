@@ -1,4 +1,4 @@
-import { ListNode } from './remove-duplicated-item/ListNode.ts';
+import { ListNode } from './ListNode.ts';
 import { RemoveDuplicated } from './remove-duplicated-item/RemoveDuplicated.ts';
 import * as readline from 'readline';
 
